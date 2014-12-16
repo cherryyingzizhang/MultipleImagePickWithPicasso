@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Cherry_Zhang/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Cherry_Zhang/android-fit-master/MultipleImagePick-master/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-9da3b5bda020475069d9aca026e039e42e5ea067.jar" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/Cherry_Zhang/android-fit-master/MultipleImagePick-master/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9b0c91724911eaec080d48609a1927f9baf40258.jar" />
+    </item>
+
+</items>

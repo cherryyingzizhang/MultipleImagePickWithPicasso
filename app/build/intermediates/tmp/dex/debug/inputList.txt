@@ -1,0 +1,3 @@
+/Users/Cherry_Zhang/android-fit-master/MultipleImagePick-master/app/build/intermediates/classes/debug
+/Users/Cherry_Zhang/android-fit-master/MultipleImagePick-master/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9b0c91724911eaec080d48609a1927f9baf40258.jar
+/Users/Cherry_Zhang/android-fit-master/MultipleImagePick-master/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-9da3b5bda020475069d9aca026e039e42e5ea067.jar
